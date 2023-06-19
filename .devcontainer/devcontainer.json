@@ -9,6 +9,18 @@
 		"dockerfile": "../Dockerfile"
 	}
 
+		// Configure tool-specific properties.
+		"customizations": {
+			// Configure properties specific to VS Code.
+			"vscode": {
+				"settings": {},
+				"extensions": [
+					"ms-python.python"
+				]
+			}
+			},
+
+		
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
